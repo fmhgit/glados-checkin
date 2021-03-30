@@ -16,7 +16,7 @@
 
 # glados 注册
   [注册链接：https://github.com/glados-network/GLaDOS](https://github.com/glados-network/GLaDOS)   
-  注：先复制下面激活码，注册后送3天，包月（10g），如果有教育邮箱可以使用教育plan（360天）（50g）  
+  注：先复制下面激活码，注册后送1天，包月（10g），如果有教育邮箱可以使用教育plan（360天）（50g）  
       （若是普通邮箱注册，可更改为.edu邮箱，点下面的 for education 进行申请）  
   填写激活码：  **0O5GH-K1WA9-ZXURM-HBJMY** 获得1天  
   
